@@ -1,0 +1,82 @@
+Heavy Gunner
+Weapon Skill: 35
+Ballistic Skill: 32
+Strength: 35
+Toughness: 45
+Agility: 34
+Intelligence: 26
+Perception: 31
+Willpower: 32
+Fellowship: 36
+Wounds: 14
+Fate: 1
+Demeanor: Lucky
+Exp (unspent): 600
+
+APTITUDES:
+Ballistic Skill
+Defence
+Fellowship
+Offence
+Perception
+Toughness
+
+SKILLS:
+Common Lore (War)
+Common Lore (Ecclesiarchy)
+Common Lore (Imperial Creed)
+Athletics
+Survival
+Common Lore(Imperial Guard, War)
+Intimidate
+Survival
+
+TALENTS:
+Catfall
+Unshakable Faith
+Resistance (Fear)
+               
+Aptitude: 
+Willpower                                      
+Iron Jaw
+Weapon Training: Low-Tech
+Weapon Training: Heavy
+Double Team
+Combat Master
+Frenzy and Hatred (Choose Hatred Pg145)
+Weapon Training: Las
+Weapon Training: Bolt
+
+Traits:
+Fluency – (HOTE Pg38)
+Fealty - (HOTE Pg38)
+Suspicious of Machine Spirits – (HOTE Pg38)
+Code of Honour – (HOTE Pg45)
+Pride Over Life – (HOTE Pg45)
+
+EQUIPMENT:
+Laspistol (Sidearm)
+Pistol Charge Packs, 4 
+Good Chainsword
+Shield
+Hunting Lance, 2
+Imperial Guard Flak Armour
+Horse (Minion) 
+Uniform
+Poor Weather Gear
+Slingbag
+Sleeping Bag
+Blanket
+Set of Basic Tools
+Mess kit
+Grooming Kit
+Canteen
+Lamp Pack
+Imperial Infantrymans Uplifting Primer
+Rations (2 Weeks)
+Saddle
+Saddlebags, 2
+Saddle Blanket
+Bit&Bridle
+Barding
+Common Craftsmanship Missile launcher + 5 Frag Missiles

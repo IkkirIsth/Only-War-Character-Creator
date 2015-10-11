@@ -1,0 +1,71 @@
+Name: Hastus Crusaders Regiment
+Homeworld: Hastus
+World Type: Feudal World
+Regiment Type: Close Assault Regiment
+Officer Disposition: Maverick
+
+Characteristic Modifiers:
++2 Weapon Skill
++3 Willpower
+-3 Ballistics Skill
++1 Wounds                         
+
+Characteristic Choices:
+choose:2 +3 Weapon Skill || +3 Strength || +3 Toughness
+
+Skills:
+Common Lore (War)
+Common Lore (Ecclesiarchy)
+Common Lore (Imperial Creed)
+Athletics
+Survival
+
+Traits: 
+Fluency – (HOTE Pg38)
+Fealty - (HOTE Pg38)
+Suspicious of Machine Spirits – (HOTE Pg38)
+Code of Honour – (HOTE Pg45)
+Pride Over Life – (HOTE Pg45)
+
+Talents:
+Catfall
+Unshakable Faith
+Resistance (Fear)
+               
+Aptitude: 
+Willpower                                      
+
+Talent Choices:
+Double Team || Duelist
+Double Team || Combat Master
+Frenzy and Hatred (Choose Hatred Pg145) || Peer (Ecclesiarchy) 
+
+Regiment Favored Weapons:
+Basic Weapon: Meltagun
+Heavy Weapon: Missile Launcher
+
+Regiment Standard Kit:
+Laspistol (Sidearm)
+Pistol Charge Packs, 4 
+Good Chainsword
+Shield
+Hunting Lance, 2
+Imperial Guard Flak Armour
+Horse (Minion) 
+Uniform
+Poor Weather Gear
+Slingbag
+Sleeping Bag
+Blanket
+Set of Basic Tools
+Mess kit
+Grooming Kit
+Canteen
+Lamp Pack
+Imperial Infantrymans Uplifting Primer
+Rations (2 Weeks)
+Saddle
+Saddlebags, 2
+Saddle Blanket
+Bit&Bridle
+Barding

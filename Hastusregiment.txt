@@ -1,0 +1,78 @@
+Name: Hastus Crusaders Regiment
+Homeworld: Hastus
+World Type: Feudal World
+Regiment Type: Close Assault Regiment
+Officer Disposition: Maverick
+
+Characteristic Modifiers:
++5 Weapon Skill
++3 Willpower
+-3 Intelligence
++1 Wounds                         
+
+Characteristic Choices:
+choose:2 +3 Weapon Skill || +3 Strength || +3 Toughness
+
+Skills:
+Common Lore (War)
+Common Lore (Ecclesiarchy)
+Common Lore (Imperial Guard)
+Athletics
+
+Traits: 
+Fluency – (HOTE Pg38)
+Fealty - (HOTE Pg38)
+Suspicious of Machine Spirits – (HOTE Pg38)
+Code of Honour – (HOTE Pg45)
+Pride Over Life – (HOTE Pg45)
+
+Talents:
+Lightning Reflexes
+Unshakable Faith
+Resistance (Fear)
+               
+Aptitude: 
+Willpower                                      
+
+Talent Choices:
+Double Team || Duelist
+Frenzy and Hatred (Choose Hatred Pg145) || Peer (Ecclesiarchy) 
+
+Skill Choices:                                 
+Dodge || Parry
+
+Weapon Choices: 
+Combat Shotgun and 4 Reloads || Great Weapon || Two One-Handed Low Tech Weapons  ***** NEW ***** 
+
+Regiment Favored Weapons:
+Basic Weapon: Meltagun
+Heavy Weapon: Missile Launcher
+
+Regiment Standard Kit:
+Laspistol (Sidearm)
+Pistol Charge Packs, 2 
+Good Sword 
+Shield
+Hunting Lance
+Imperial Guard Flak Armour
+Frag Grenades, 3
+Krak Grenades, 2
+Horse (Minion) 
+Uniform
+Poor Weather Gear (Rain/Cold)
+Slingbag
+Sleeping Bag
+Blanket
+Set of Basic Tools
+Mess kit
+Grooming Kit
+Canteen
+Lamp Pack
+Imperial Infantrymans Uplifting Primer
+Rations (2 Weeks)
+Saddle
+Saddlebags, 2
+Saddle Blanket
+Bit&Bridle
+Barding
+Horse Rations (Two Weeks)

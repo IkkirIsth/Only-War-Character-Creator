@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1424729211 source:c:\users\tenochman\desktop\onlywarchar\onlywarcharcreator\main.cpp
+	<cstdlib>
+	<iostream>
+	<fstream>
+	<cmath>
+	<ctime>
+	<string>
+	<vector>
+
