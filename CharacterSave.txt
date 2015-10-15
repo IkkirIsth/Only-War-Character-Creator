@@ -1,16 +1,16 @@
 Heavy Gunner
-Weapon Skill: 35
-Ballistic Skill: 32
+Weapon Skill: 42
+Ballistic Skill: 30
 Strength: 35
-Toughness: 45
-Agility: 34
-Intelligence: 26
-Perception: 31
-Willpower: 32
-Fellowship: 36
-Wounds: 14
-Fate: 1
-Demeanor: Lucky
+Toughness: 33
+Agility: 36
+Intelligence: 29
+Perception: 36
+Willpower: 39
+Fellowship: 33
+Wounds: 13
+Fate: 2
+Demeanor: Dissenter
 Exp (unspent): 600
 
 APTITUDES:
@@ -24,15 +24,15 @@ Toughness
 SKILLS:
 Common Lore (War)
 Common Lore (Ecclesiarchy)
-Common Lore (Imperial Creed)
+Common Lore (Imperial Guard)
 Athletics
-Survival
 Common Lore(Imperial Guard, War)
 Intimidate
-Survival
+Dodge
+Athletics-Trained
 
 TALENTS:
-Catfall
+Lightning Reflexes
 Unshakable Faith
 Resistance (Fear)
                
@@ -42,8 +42,8 @@ Iron Jaw
 Weapon Training: Low-Tech
 Weapon Training: Heavy
 Double Team
-Combat Master
 Frenzy and Hatred (Choose Hatred Pg145)
+Combat Shotgun and 4 Reloads
 Weapon Training: Las
 Weapon Training: Bolt
 
@@ -56,14 +56,16 @@ Pride Over Life – (HOTE Pg45)
 
 EQUIPMENT:
 Laspistol (Sidearm)
-Pistol Charge Packs, 4 
-Good Chainsword
+Pistol Charge Packs, 2 
+Good Sword 
 Shield
-Hunting Lance, 2
+Hunting Lance
 Imperial Guard Flak Armour
+Frag Grenades, 3
+Krak Grenades, 2
 Horse (Minion) 
 Uniform
-Poor Weather Gear
+Poor Weather Gear (Rain/Cold)
 Slingbag
 Sleeping Bag
 Blanket
@@ -79,4 +81,5 @@ Saddlebags, 2
 Saddle Blanket
 Bit&Bridle
 Barding
+Horse Rations (Two Weeks)
 Common Craftsmanship Missile launcher + 5 Frag Missiles

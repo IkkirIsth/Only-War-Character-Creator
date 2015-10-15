@@ -1,3 +1,12 @@
+#define VERSION_NUMBER = .58
+/*
+Only War Character creator by: Moghjubar
+Notice: This is an UNOFFICIAL tool, and not in any way related to Games Workshop.  You can see their IP policy here: http://www.games-workshop.com/Intellectual-Property-Policy
+This project contains no actual gameplay rules OR descriptions, and must be used with an official rulebook.
+
+Last change: October 14, 2015
+*/
+
 #include <cstdlib>
 #include <iostream>
 #include <fstream>
@@ -1662,9 +1671,10 @@ int main()
                 {
                     if (skills[scomp].compare(skillchoices[i].choices[el]) == 0)
                     {
+                        skillchoices[i].choices[el].append("-Trained");
                         //cout << "Erasing " << talentchoices[i].choices[el].c_str() << endl;
-                        skillchoices[i].choices.erase(skillchoices[i].choices.begin()+el);
-                        goto skillbreak;
+                        //skillchoices[i].choices.erase(skillchoices[i].choices.begin()+el);
+                        //goto skillbreak;
                     }
 
                 }
@@ -1674,7 +1684,7 @@ int main()
                 skills.push_back(skillchoices[i].choices[0].c_str());
                 continue;
             }
-            if (skillchoices[i].choices.size()<)
+            if (skillchoices[i].choices.size()< 1)
                 break;
             cout << "Choose Skills\n";
             for (unsigned int j = 0; j < skillchoices[i].choices.size(); j++)
@@ -1702,6 +1712,9 @@ int main()
         for (unsigned int i = 0; i < talentchoices.size(); i++)
         {
             //eliminate already chosen talents
+            //if all are eliminated, add 100 xp //debug this later, seems broken now
+            //int xptoadd = 100;
+            //bool chosen = false;
             talentbreak:
             for (unsigned int el = 0; el < talentchoices[i].choices.size(); el++)
             {
@@ -1727,9 +1740,12 @@ int main()
             {
                 cout << "Invalid entry\n";
                 cin >> choice;
+                //chosen = true;
             }
             cout << talentchoices[i].choices[choice].c_str() << " chosen\n";
             talents.push_back(talentchoices[i].choices[choice].c_str());
+            //if (!chosen)
+            //    experience += xptoadd;
         }
         quit = true;
     }
